@@ -1,6 +1,6 @@
 # free-code 🔥🦒🕊️🌈
 
-Free code for everyone to use for free
+Free code for everyone to use for free cuz it's free
 
 This code base is a collection of simple utilities, which can act as a sort of foundation or framework for JavaScript code.
 
