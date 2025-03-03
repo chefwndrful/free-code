@@ -1,4 +1,4 @@
-# free-code cuz it's 🔥🦒🕊️🌈
+# free-code 🔥🦒🕊️🌈
 
 Free code for everyone to use for free
 
