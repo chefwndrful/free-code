@@ -2,8 +2,8 @@
 TODO:
 this code uses an old format for inline field tests:
 
-    $getjson: () => JSON.stringify({ x: .x, y: _.y }),
-    $testjson: [
+    $get_json: () => JSON.stringify({ x: .x, y: _.y }),
+    $test_json: [
       "default JSON",
       () => assert(_.json === '{"x":0,"y":0}'),
 
@@ -31,7 +31,7 @@ this code uses an old format for inline field tests:
 
 they need to be converted to:
 
-$testjson: () => {
+$test_json: () => {
   it("default JSON", () => {
     assert(.json === '{"x":0,"y":0}');
   });
